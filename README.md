@@ -1,8 +1,18 @@
-# fullstack-test
+# Fullstack Test
 
-Create a micro-service able to accept RESTful requests receiving as parameter either city name or lat long coordinates and returns a playlist (only track names is fine) suggestion according to the current temperature. Use any language and framework you want, however Kotlin + Spring is recommended.
+## Context
 
-Also create a simple frontend which sends the location to the microservice and shows the music suggestions. Use any language and framework you want (JQuery, ReactJS, Angular...).
+Gobots wants to create a new service to suggest music to its users. The suggestions will depend on the city and the climate where the user is.
+
+## Task
+
+Create a micro-service able to accept RESTful requests receiving as parameter a location and returns a playlist suggestion according to the current temperature. Use any language and framework you want (Kotlin/Java + Spring, Python + Django/Flask etc), however Kotlin + Spring is recommended.
+
+Also create a simple frontend which sends the location to the microservice and shows the music suggestions. Use any language and framework you want (JQuery, ReactJS, Angular etc).
+
+### Observations
+ - Location can be represented as city name or lat long coordinates.
+ - A playlist can be represented as a list of music names.
 
 ## Business rules
 * If temperature (celcius) is above 30 degrees, suggest tracks for party
