@@ -12,3 +12,6 @@ Also create a simple frontend which sends the location to the microservice and s
 
 ## Hints
 You can make usage of OpenWeatherMaps API (https://openweathermap.org) to fetch temperature data and Spotify (https://developer.spotify.com) to suggest the tracks as part of the playlist.
+
+## Submission
+Fork this project and share it with your interviwer
