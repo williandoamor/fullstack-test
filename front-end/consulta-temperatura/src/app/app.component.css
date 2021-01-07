@@ -1,0 +1,19 @@
+.container {
+
+    margin-top: 30px;
+}
+
+.list-car {
+
+    margin-bottom: 50px;
+}
+
+.btn-search {
+
+    margin-right: 10px;
+
+}
+
+li {
+    list-style-type: none;
+  }

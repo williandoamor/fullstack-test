@@ -1,10 +1,4 @@
-
-
-moved to --> [https://github.com/williandoamor/accept-challenge](https://github.com/williandoamor/accept-challenge)
-
-
 # Fullstack Test
-
 
 ## Context
 
